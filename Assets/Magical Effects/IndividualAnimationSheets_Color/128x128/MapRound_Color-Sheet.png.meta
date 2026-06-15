@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 38dc26b5763c1eb4ea8aa2a304de0e34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8115033099064936094
+    second: MapRound_Color-Sheet_0
+  - first:
+      213: 4864349635789298983
+    second: MapRound_Color-Sheet_1
+  - first:
+      213: 3759118940290324195
+    second: MapRound_Color-Sheet_2
+  - first:
+      213: 188746778217907700
+    second: MapRound_Color-Sheet_3
+  - first:
+      213: -755051143788745073
+    second: MapRound_Color-Sheet_4
+  - first:
+      213: -8930442822141503348
+    second: MapRound_Color-Sheet_5
+  - first:
+      213: -6683090427473500527
+    second: MapRound_Color-Sheet_6
+  - first:
+      213: -1877776990612909110
+    second: MapRound_Color-Sheet_7
+  - first:
+      213: -5715884839519781614
+    second: MapRound_Color-Sheet_8
+  - first:
+      213: -8716076815949719697
+    second: MapRound_Color-Sheet_9
+  - first:
+      213: -7026669335519402186
+    second: MapRound_Color-Sheet_10
+  - first:
+      213: -1050658303221028661
+    second: MapRound_Color-Sheet_11
+  - first:
+      213: -2232725396869618785
+    second: MapRound_Color-Sheet_12
+  - first:
+      213: -4602738689901419393
+    second: MapRound_Color-Sheet_13
+  - first:
+      213: -688918797821900186
+    second: MapRound_Color-Sheet_14
+  - first:
+      213: -8322087455305749181
+    second: MapRound_Color-Sheet_15
+  - first:
+      213: -4187783626077521558
+    second: MapRound_Color-Sheet_16
+  - first:
+      213: 8339199998094459385
+    second: MapRound_Color-Sheet_17
+  - first:
+      213: -5445269894724459609
+    second: MapRound_Color-Sheet_18
+  - first:
+      213: -6289698013032560828
+    second: MapRound_Color-Sheet_19
+  - first:
+      213: 1274250839706660691
+    second: MapRound_Color-Sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26972b5446c916f80800000000000000
+      internalID: -8115033099064936094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 112
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9588a834a18340800000000000000
+      internalID: 4864349635789298983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6927072c21b2430800000000000000
+      internalID: 3759118940290324195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58d2cd1309e9200800000000000000
+      internalID: 188746778217907700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e28333cf48585f0800000000000000
+      internalID: -755051143788745073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88915b9191b01480800000000000000
+      internalID: -8930442822141503348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 61
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196e0ac2aa4e043a0800000000000000
+      internalID: -6683090427473500527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 58
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39d13a6cbc0f5e0800000000000000
+      internalID: -1877776990612909110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21df163c5091da0b0800000000000000
+      internalID: -5715884839519781614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 58
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f679c4ec0564a0780800000000000000
+      internalID: -8716076815949719697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 60
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6376c3ed7714c7e90800000000000000
+      internalID: -7026669335519402186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 57
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8223007df4b61f0800000000000000
+      internalID: -1050658303221028661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93e79eb414c301e0800000000000000
+      internalID: -2232725396869618785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 40
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74aa724c89cf10c0800000000000000
+      internalID: -4602738689901419393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 40
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a8cb0e0087076f0800000000000000
+      internalID: -688918797821900186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d24cc3d81028c80800000000000000
+      internalID: -8322087455305749181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69b37bdaf002e5c0800000000000000
+      internalID: -4187783626077521558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1cb5d173acab370800000000000000
+      internalID: 8339199998094459385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e1da81e38e64b0800000000000000
+      internalID: -5445269894724459609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c6bc3bf086b8a0800000000000000
+      internalID: -6289698013032560828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapRound_Color-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f657f236c0fa110800000000000000
+      internalID: 1274250839706660691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MapRound_Color-Sheet_0: -8115033099064936094
+      MapRound_Color-Sheet_1: 4864349635789298983
+      MapRound_Color-Sheet_10: -7026669335519402186
+      MapRound_Color-Sheet_11: -1050658303221028661
+      MapRound_Color-Sheet_12: -2232725396869618785
+      MapRound_Color-Sheet_13: -4602738689901419393
+      MapRound_Color-Sheet_14: -688918797821900186
+      MapRound_Color-Sheet_15: -8322087455305749181
+      MapRound_Color-Sheet_16: -4187783626077521558
+      MapRound_Color-Sheet_17: 8339199998094459385
+      MapRound_Color-Sheet_18: -5445269894724459609
+      MapRound_Color-Sheet_19: -6289698013032560828
+      MapRound_Color-Sheet_2: 3759118940290324195
+      MapRound_Color-Sheet_20: 1274250839706660691
+      MapRound_Color-Sheet_3: 188746778217907700
+      MapRound_Color-Sheet_4: -755051143788745073
+      MapRound_Color-Sheet_5: -8930442822141503348
+      MapRound_Color-Sheet_6: -6683090427473500527
+      MapRound_Color-Sheet_7: -1877776990612909110
+      MapRound_Color-Sheet_8: -5715884839519781614
+      MapRound_Color-Sheet_9: -8716076815949719697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

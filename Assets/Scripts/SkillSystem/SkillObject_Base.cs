@@ -1,0 +1,69 @@
+using UnityEngine;
+
+public class SkillObject_Base : MonoBehaviour//执行者，负责"飞出去之后的所有行为"
+{
+    [SerializeField] protected LayerMask whatIsEnemy;
+    [SerializeField] protected Transform targetCheck;
+    [SerializeField] protected float checkRadius = 1;
+    [SerializeField] private ElementType elementType;
+
+    protected Entity_Stats playerStats;
+    protected DamageScaleData damageScaleData ;
+    protected ElementType usedElement;
+   protected void DamageEnemiesInRadius(Transform t, float radius)
+    {
+        foreach (var target in EnemiesAround(t, radius))
+        {
+            IDamageable damagable = target.GetComponent<IDamageable>();
+
+            if (damagable == null)
+                continue;
+
+            ElementalEffectData effectData =
+                new ElementalEffectData(playerStats, damageScaleData);
+
+            float physDamage =
+                playerStats.GetPhysicalDamage(out bool isCrit, damageScaleData.physical);
+
+            float elemDamage =
+                playerStats.GetElementalDamage(out ElementType element, damageScaleData.elemental);
+
+            damagable.TakeDamage(physDamage, elemDamage, element, transform);
+
+            if (element != ElementType.None)
+                target.GetComponent<Entity_StatusHandler>()
+                      .ApplyStatusEffect(element, effectData);
+
+            usedElement = element;
+        }
+    }
+    protected Transform FindClosestTarget()
+    {
+        Transform target = null;
+        float closestDistance = Mathf.Infinity;
+
+        foreach(var enemy in EnemiesAround(transform, 10))
+        {
+            float distance = Vector2.Distance(transform.position, enemy.transform.position);
+            if (distance < closestDistance)
+            {
+                target = enemy.transform;
+                closestDistance = distance;
+            }
+        }
+
+        return target;
+    }
+    protected Collider2D[] EnemiesAround(Transform t, float radius)
+    {
+        return Physics2D.OverlapCircleAll(t.position, radius, whatIsEnemy);
+    }
+
+    protected virtual void OnDrawGizmos()
+    {
+        if (targetCheck == null)
+            targetCheck = transform;
+
+        Gizmos.DrawWireSphere(targetCheck.position, checkRadius);
+    }
+}

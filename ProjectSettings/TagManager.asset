@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Sign
+  - 'Spike '
+  - SpawnPoint
+  - PlayerHealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Player
+  - Enemy
+  - BackGround
+  - PlayerInteractable
+  - Chest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 202810327
+    locked: 0
+  - name: Ground
+    uniqueID: 4231090633
+    locked: 0
+  - name: 'Decor '
+    uniqueID: 2767713111
+    locked: 0
+  - name: Enemy
+    uniqueID: 1139569675
+    locked: 0
+  - name: Player
+    uniqueID: 2482837317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

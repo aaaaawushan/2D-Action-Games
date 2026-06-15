@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b729cee82812b0c4fbcc588ffe089eca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4114184409886838849
+    second: MapSquareFilled_Color-Sheet_0
+  - first:
+      213: 7088369901198807902
+    second: MapSquareFilled_Color-Sheet_1
+  - first:
+      213: 3817514609927513785
+    second: MapSquareFilled_Color-Sheet_2
+  - first:
+      213: -9134311817622240371
+    second: MapSquareFilled_Color-Sheet_3
+  - first:
+      213: -1477518515512616495
+    second: MapSquareFilled_Color-Sheet_4
+  - first:
+      213: 5890919812949759644
+    second: MapSquareFilled_Color-Sheet_5
+  - first:
+      213: -774145515262666880
+    second: MapSquareFilled_Color-Sheet_6
+  - first:
+      213: -5199661304156335799
+    second: MapSquareFilled_Color-Sheet_7
+  - first:
+      213: -4330070685940961519
+    second: MapSquareFilled_Color-Sheet_8
+  - first:
+      213: -3556058164481589926
+    second: MapSquareFilled_Color-Sheet_9
+  - first:
+      213: 8209635061775059433
+    second: MapSquareFilled_Color-Sheet_10
+  - first:
+      213: -6005553583852123721
+    second: MapSquareFilled_Color-Sheet_11
+  - first:
+      213: 3935574534401052006
+    second: MapSquareFilled_Color-Sheet_12
+  - first:
+      213: 6350124707213772072
+    second: MapSquareFilled_Color-Sheet_13
+  - first:
+      213: -6043746751158963767
+    second: MapSquareFilled_Color-Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14051c34ce4881930800000000000000
+      internalID: 4114184409886838849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 109
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53968d8ed2fe5260800000000000000
+      internalID: 7088369901198807902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6e799cf498af430800000000000000
+      internalID: 3817514609927513785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 108
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8349fa2cc76c3180800000000000000
+      internalID: -9134311817622240371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9dec50dbcce7be0800000000000000
+      internalID: -1477518515512616495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 108
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c965e23cb50c0c150800000000000000
+      internalID: 5890919812949759644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0879e4661cea145f0800000000000000
+      internalID: -774145515262666880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941da65c79717d7b0800000000000000
+      internalID: -5199661304156335799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f282027af78e3c0800000000000000
+      internalID: -4330070685940961519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 56
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d7271b0f756aec0800000000000000
+      internalID: -3556058164481589926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c1b8979b7ee170800000000000000
+      internalID: 8209635061775059433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 56
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b98be295dcf7aca0800000000000000
+      internalID: -6005553583852123721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d4c0eff28fd9630800000000000000
+      internalID: 3935574534401052006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82588ecd6cc202850800000000000000
+      internalID: 6350124707213772072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquareFilled_Color-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1bfb8d95c402ca0800000000000000
+      internalID: -6043746751158963767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MapSquareFilled_Color-Sheet_0: 4114184409886838849
+      MapSquareFilled_Color-Sheet_1: 7088369901198807902
+      MapSquareFilled_Color-Sheet_10: 8209635061775059433
+      MapSquareFilled_Color-Sheet_11: -6005553583852123721
+      MapSquareFilled_Color-Sheet_12: 3935574534401052006
+      MapSquareFilled_Color-Sheet_13: 6350124707213772072
+      MapSquareFilled_Color-Sheet_14: -6043746751158963767
+      MapSquareFilled_Color-Sheet_2: 3817514609927513785
+      MapSquareFilled_Color-Sheet_3: -9134311817622240371
+      MapSquareFilled_Color-Sheet_4: -1477518515512616495
+      MapSquareFilled_Color-Sheet_5: 5890919812949759644
+      MapSquareFilled_Color-Sheet_6: -774145515262666880
+      MapSquareFilled_Color-Sheet_7: -5199661304156335799
+      MapSquareFilled_Color-Sheet_8: -4330070685940961519
+      MapSquareFilled_Color-Sheet_9: -3556058164481589926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

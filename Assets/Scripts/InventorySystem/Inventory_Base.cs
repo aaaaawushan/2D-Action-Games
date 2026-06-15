@@ -1,0 +1,79 @@
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Inventory_Base : MonoBehaviour
+{
+    public event Action OnInventoryChange;
+
+    public int maxInventorySize = 10;
+    public List<Inventory_Item> itemList = new List<Inventory_Item>();
+
+    protected virtual void Awake()
+    {
+
+    }
+    public virtual void ClearInventory()
+    {
+        itemList.Clear();
+        InvokeInventoryChange();
+    }
+    protected void InvokeInventoryChange()
+    {
+        OnInventoryChange?.Invoke();
+    }
+    public void TryUseItem(Inventory_Item itemToUSe)
+    {
+        Inventory_Item consumable = itemList.Find(item => item == itemToUSe);
+        if ((consumable==null))
+        {
+            return;
+        }
+        if (consumable.itemData.itemType != ItemType.Consumable)
+            return;
+        if (consumable.itemEffect == null)
+            return;
+
+        consumable.itemEffect.ExecuteEffect();
+        if (consumable.stackSize > 1) consumable.RemoveStack();
+        else RemoveItem(consumable);
+
+        OnInventoryChange?.Invoke();
+    }
+    public bool CanAddItem(Inventory_Item itemToAdd)
+    {
+        bool hasStackable = CanAddToStack(itemToAdd)!= null;
+
+        return hasStackable || itemList.Count < maxInventorySize;
+    }
+    public Inventory_Item CanAddToStack(Inventory_Item itemToAdd)
+    {
+        List<Inventory_Item> stackableItems = itemList.FindAll(item => item.itemData == itemToAdd.itemData);
+        foreach(var stack in stackableItems)
+        {
+            if (stack.CanAddStack()) return stack;
+        }
+
+        return null;
+    }
+    public void AddItem(Inventory_Item itemToAdd)
+    {
+        Inventory_Item itemInInventory = FindItem(itemToAdd.itemData);
+
+        if (itemInInventory != null && itemInInventory.CanAddStack())
+            itemInInventory.AddStack();
+        else
+            itemList.Add(itemToAdd);
+
+        OnInventoryChange?.Invoke();
+    }
+    public void RemoveItem(Inventory_Item itemToRemove)
+    {
+        itemList.Remove(itemToRemove);
+        OnInventoryChange?.Invoke();
+    }
+    public Inventory_Item FindItem(ItemDataSO itemData)
+    {
+        return itemList.Find(item => item.itemData == itemData);
+    }
+}

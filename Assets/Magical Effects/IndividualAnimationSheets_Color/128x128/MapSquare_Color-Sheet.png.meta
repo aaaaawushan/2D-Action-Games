@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 2d7fbad4d06457149a2e822e679c8638
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8028438292380298263
+    second: MapSquare_Color-Sheet_0
+  - first:
+      213: 885497347366287348
+    second: MapSquare_Color-Sheet_1
+  - first:
+      213: -7113496362498525350
+    second: MapSquare_Color-Sheet_2
+  - first:
+      213: -5205702551353713807
+    second: MapSquare_Color-Sheet_3
+  - first:
+      213: -4105024870287391576
+    second: MapSquare_Color-Sheet_4
+  - first:
+      213: 8451039741945863446
+    second: MapSquare_Color-Sheet_5
+  - first:
+      213: -2078688686845999537
+    second: MapSquare_Color-Sheet_6
+  - first:
+      213: -9004113429062254366
+    second: MapSquare_Color-Sheet_7
+  - first:
+      213: 8554827107995219479
+    second: MapSquare_Color-Sheet_8
+  - first:
+      213: -8570418293758829066
+    second: MapSquare_Color-Sheet_9
+  - first:
+      213: 5381593392838757633
+    second: MapSquare_Color-Sheet_10
+  - first:
+      213: -8937996837988738613
+    second: MapSquare_Color-Sheet_11
+  - first:
+      213: 6171711556506806532
+    second: MapSquare_Color-Sheet_12
+  - first:
+      213: 4918358204845990321
+    second: MapSquare_Color-Sheet_13
+  - first:
+      213: 4844532995578582943
+    second: MapSquare_Color-Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ca876271eba6f60800000000000000
+      internalID: 8028438292380298263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 109
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77157552be94c00800000000000000
+      internalID: 885497347366287348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57fd3a4fb8c74d90800000000000000
+      internalID: -7113496362498525350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 108
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b973c4c11a1c7b0800000000000000
+      internalID: -5205702551353713807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4406c31a50807c0800000000000000
+      internalID: -4105024870287391576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 108
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5469aedf184570800000000000000
+      internalID: 8451039741945863446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46cbe517a30723e0800000000000000
+      internalID: -2078688686845999537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e08b67ca86fa0380800000000000000
+      internalID: -9004113429062254366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716ffe6ede9d8b670800000000000000
+      internalID: 8554827107995219479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 56
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fddef748f1cf0980800000000000000
+      internalID: -8570418293758829066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d4eb98da24faa40800000000000000
+      internalID: 5381593392838757633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 56
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9dd1c3b3bd5f380800000000000000
+      internalID: -8937996837988738613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409e2c526f256a550800000000000000
+      internalID: 6171711556506806532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b129fd8ab4814440800000000000000
+      internalID: 4918358204845990321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapSquare_Color-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97de10971d3b3340800000000000000
+      internalID: 4844532995578582943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MapSquare_Color-Sheet_0: 8028438292380298263
+      MapSquare_Color-Sheet_1: 885497347366287348
+      MapSquare_Color-Sheet_10: 5381593392838757633
+      MapSquare_Color-Sheet_11: -8937996837988738613
+      MapSquare_Color-Sheet_12: 6171711556506806532
+      MapSquare_Color-Sheet_13: 4918358204845990321
+      MapSquare_Color-Sheet_14: 4844532995578582943
+      MapSquare_Color-Sheet_2: -7113496362498525350
+      MapSquare_Color-Sheet_3: -5205702551353713807
+      MapSquare_Color-Sheet_4: -4105024870287391576
+      MapSquare_Color-Sheet_5: 8451039741945863446
+      MapSquare_Color-Sheet_6: -2078688686845999537
+      MapSquare_Color-Sheet_7: -9004113429062254366
+      MapSquare_Color-Sheet_8: 8554827107995219479
+      MapSquare_Color-Sheet_9: -8570418293758829066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
