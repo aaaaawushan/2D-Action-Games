@@ -37,3 +37,5 @@
 
 ## 備考
 中国のゲーム展示会に出展し、来場者の方々からフィードバックをいただきました。
+## ダウンロード（ビルド版）
+[Google Driveからダウンロード](https://drive.google.com/drive/folders/1ACXASdGL_YhaY-j4Z69-5thwSjObkUFB?usp=drive_link)
